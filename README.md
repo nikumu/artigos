@@ -1,4 +1,4 @@
-# Artigos Técnicos (Português / English)
+# Artigos Técnicos
 
 Este repositório foi criado para armazenar e compartilhar artigos técnicos e tutoriais escritos em português e inglês, abordando diversas áreas de tecnologia, como desenvolvimento de software, programação, ferramentas de produtividade e melhores práticas.
 
